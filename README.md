@@ -18,4 +18,4 @@ This project is a practical demonstration of front-end web development skills, c
 <h4>
   The proof:-
 </h4>
-<img src = "proof.png">
+<img src = "proof.jpeg">
